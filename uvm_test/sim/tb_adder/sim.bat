@@ -1,0 +1,1 @@
+vsim -c libs/tb_adder.tb_top -do run.do -L libs/adder
