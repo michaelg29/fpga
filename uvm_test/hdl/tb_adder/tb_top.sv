@@ -64,6 +64,7 @@ end
 
 initial begin
     test_class::print_hello();
+    // test_class::uvm_log();
 	// code that executes only once
 	$display("Running testbench");
 	// insert code here --> begin
